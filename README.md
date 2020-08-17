@@ -1,2 +1,2 @@
-# restX-server
-A boilerplate for developing RESTful API using Node.js, Express.js and MongoDB
+# REST API Boilerplate - Node.js Express.js MongoDB
+A boilerplate REST API Server using Node.js, Express.js, and MongoDB
