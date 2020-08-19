@@ -1,0 +1,19 @@
+{
+  "name": "restx-server",
+  "version": "1.0.0",
+  "description": "A boilerplate REST API Server using Node.js, Express.js, and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanmatw/restX-server.git"
+  },
+  "author": "Alan Mathew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanmatw/restX-server/issues"
+  },
+  "homepage": "https://github.com/alanmatw/restX-server#readme"
+}
